@@ -1,0 +1,14 @@
+class first
+{
+	public static void main(String args[])
+	{
+		int x=5;
+		int y=10;
+		int z=x+y;
+		System.out.println("Hello everyone");
+		System.out.println("Sum of X and Y is "+x+y);
+		System.out.println("Difference of X and Y is "+(y-x));
+		System.out.println("Multiply of X and Y is "+x*y);
+		System.out.println("Division of X and Y is "+y/x);
+	}
+}																															
